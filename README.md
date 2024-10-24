@@ -24,5 +24,5 @@ You are to make a multi-page website that talks about your favorite items in a t
 - **G)** For every item, you must provide content, videos & Images.
 - **H)** Uploaded to Github and Repo Link in Comments
 - **I)** Peer review about work experience with your partner and personal thoughts and Figma File
-- **G)** Put Figma Link in comments also
+- **J)** Put Figma Link in comments also
 ____________________________________________________________________________________________________________
