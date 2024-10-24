@@ -1,67 +1,66 @@
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #d1b3d1;
-  }
-  
-  .center {
-    text-align: center;
-  }
-  
-  .container {
-    background-color: #c09ac0;
-    padding: 20px;
-    text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
-  }
-  
-  h1 {
-    font-size: 2.5rem;
-    margin-bottom: 10px;
-    color: #000;
-  }
-  
-  .black-line {
-    border: 1px solid black;
-    width: 100%;
-  }
-  
-  .description {
-    font-size: 1.2rem;
-    color: #000;
-    margin-bottom: 30px;
-    text-align: left;
-  }
-  
-  .weapon-ranking {
-    padding: 20px;
-    border-radius: 5px;
-  }
-  
-  .rank-number {
-    font-size: 3rem;
-    color: #000;
-  }
-  
-  .weapon-name {
-    font-size: 1.5rem;
-    margin: 10px 0;
-    color: #000;
-  }
-  
-  .weapon-image {
-    max-width: 50%;
-    height: auto;
-    border-radius: 10px;
-    margin-top: 10px;
-  }
-  
-  .weapon-details {
-    margin: 20px auto;
-    max-width: 800px;
-    text-align: left;
-    font-size: 1.1rem;
-    color: #000;
-  }
-  
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #d1b3d1;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  background-color: #c09ac0;
+  padding: 20px;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+.black-line {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.description {
+  font-size: 1.2rem;
+  color: #000;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.weapon-ranking {
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.rank-number {
+  font-size: 3rem;
+  color: #000;
+}
+
+.weapon-name {
+  font-size: 1.5rem;
+  margin: 10px 0;
+  color: #000;
+}
+
+.weapon-image {
+  max-width: 50%;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.weapon-details {
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: left;
+  font-size: 1.1rem;
+  color: #000;
+}
