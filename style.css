@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #d1b3d1;
+  background-color: #d1b3d1 !important; 
 }
 
 .center {
   text-align: center;
 }
 
-.container {
+.container1 {
   background-color: #c09ac0;
   padding: 20px;
   text-align: center;
