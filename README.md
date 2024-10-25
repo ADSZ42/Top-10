@@ -1,9 +1,9 @@
 # Top-10-Website
 Your Favorite Top 10 Site Project#1
 
-BY: Anthony Duran / 
+BY: Anthony Duran / Robert Grijalva
 
-10/X/2024  Project#1 Your Favorite Top 10 Site
+10/25/2024  Project#1 Your Favorite Top 10 Site
 
 Peer Reviewed By: 
 ____________________________________________________________________________________________________________
