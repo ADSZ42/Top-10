@@ -5,7 +5,8 @@ BY: Anthony Duran / Robert Grijalva
 
 10/25/2024  Project#1 Your Favorite Top 10 Site
 
-Peer Reviewed By: 
+Peer Reviewed By: Andrew Sayasing
+- Nice and easy look to it. Other than some Youtube links not displaying, every thing seems to work.
 ____________________________________________________________________________________________________________
 
 ### Title: **Top 10 Website**
